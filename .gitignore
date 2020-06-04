@@ -1,0 +1,7 @@
+
+.dockerignore
+.ipynb_checkpoints/未命名-checkpoint.ipynb
+.vscode/launch.json
+.vscode/tasks.json
+tcdata/num_list.csv
+未命名.ipynb

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  tianchidocker:
+    image: tianchidocker
+    build:
+      context: .
+      dockerfile: Dockerfile
